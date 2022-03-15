@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Pierwsza linia galezi Main");
         System.out.println("Druga linia galezi Main");
 	// write your code here
+        System.out.println("Second branch");
+        System.out.println("Another line");
     }
 }
