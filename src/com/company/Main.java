@@ -8,5 +8,6 @@ public class Main {
 	// write your code here
         System.out.println("Second branch");
         System.out.println("Another line");
+	System.out.println("AAAA");
     }
 }
